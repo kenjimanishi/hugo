@@ -1,8 +1,8 @@
-baseURL = "https://kenjimanishi.github.io/"
+baseURL = "https://kenjimanishi.github.io/hugo/"
 languageCode = "ja-jp"
 title = "Nowheresville Wired"
 canonifyurls = true
-publishDir = "public"
+publishDir = "docs"
 hasCJKLanguage = true
 theme = "stip"
 [Author]
